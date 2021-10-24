@@ -1,2 +1,2 @@
 # Titanic-Passanger-Survival-Analysis
-![alt text] (https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsai.net%2Fp%2Fdata-analysis%2Ftitanic-survival-prediction-i-bf5a04afff46&psig=AOvVaw2aNWk8xSDaz4npF2xMpSSs&ust=1635176307290000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD52M2w4_MCFQAAAAAdAAAAABAD.png)
+![400px-Stöwer_Titanic](https://user-images.githubusercontent.com/51336709/138601588-166d17ff-7ab6-4f0f-bf77-2044fab0e6f8.jpg)
